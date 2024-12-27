@@ -18,9 +18,8 @@ I post about [my projects, tech, and other interesting stuff on Twitter (X)](htt
 
 # What I'm Working On  
 
-- **MagicMind:** A next-generation AI-powered tool for improving productivity.  
-- **NextStep:** An e-learning platform for collaabarative peer-to-peer learning.  
-
+- **Dish Detective:** AI powered Recipe Detective🕵️ solution. 
+- **MagicMind:**  AI powered Study productive application
 ---
 
 # Socials  
