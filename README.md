@@ -2,7 +2,7 @@
 
 > Hey, my name is Binuk! 17 y/o Full Stack Dev from **Sri Lanka 🦁**  
 
-- 🔨 Currently working on [Dish Detective](https://github.com/binukraihaan12/dish-detective-creator) and [NextStep](https://github.com/binukraihaan12/nextstep3)  
+- 🔨 Currently working on [RecipeLens AI](https://github.com/binukraihaan12/dish-detective-creator) and [NextStep](https://github.com/binukraihaan12/nextstep3)  
 
 I post about [my projects, tech, and other interesting stuff on Twitter (X)](https://twitter.com/binuk_raihaan). Feel free to check it out.  
 
@@ -18,7 +18,7 @@ I post about [my projects, tech, and other interesting stuff on Twitter (X)](htt
 
 # What I'm Working On  
 
-- **Dish Detective 🍜:** AI powered Recipe Detective solution. 
+- **RecipeLens AI 🍜:** AI powered Recipe Detective solution. 
 - **MagicMind:**  AI powered Study productive application
 ---
 
