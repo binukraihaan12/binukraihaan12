@@ -2,7 +2,7 @@
 
 > Hey, my name is Binuk! 18 y/o Full Stack Dev from **Sri Lanka 🦁**  
 
-- 🔨 Currently working on [TextBook Manager](https://github.com/binukraihaan12/textbook-manager) and [NextStep](https://github.com/binukraihaan12/nextstep3)  
+- 🔨 Currently working on [NextStep](https://github.com/binukraihaan12/nextstep3)  
 
 I post about [my projects, tech, and other interesting stuff on Twitter (X)](https://twitter.com/binuk_raihaan). Feel free to check it out.  
 
