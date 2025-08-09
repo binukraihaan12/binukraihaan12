@@ -19,8 +19,7 @@ I post about [my projects, tech, and other interesting stuff on Twitter (X)](htt
 # Socials  
 
 <p align="left">  
-<a href="https://twitter.com/binuk_raihaan" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>  
-<a href="https://www.instagram.com/binuk.raihaan/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>  
+<a href="https://www.instagram.com/binuk.rhn/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>  
 <a href="https://www.linkedin.com/in/binuk-raihaan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>  
 </p>
 
